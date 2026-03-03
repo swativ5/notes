@@ -1,2 +1,8 @@
 */*.mp4
 lab_eval.md
+*/.bsp
+*/.scala-build
+.bsp
+.metals
+.scala-build
+.vscode
